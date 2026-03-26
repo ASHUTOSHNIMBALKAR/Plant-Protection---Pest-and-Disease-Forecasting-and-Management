@@ -7,3 +7,36 @@ export const sensorData = [
   { time: '18:00', temp: 28, humidity: 58, risk: 30, predicted: 38 },
   { time: '20:00', temp: 26, humidity: 62, risk: 35, predicted: 45 },
 ];
+
+export const activeAlerts = [
+  {
+    id: 1,
+    type: 'Pest',
+    title: 'Brown Planthopper Detected',
+    location: 'Sector 4B - East',
+    severity: 'high',
+    timestamp: '10 mins ago',
+    confidence: 0.98,
+    action: 'Biological Control'
+  },
+  {
+    id: 2,
+    type: 'Disease',
+    title: 'Blast Risk Increased',
+    location: 'Sector 2A - West',
+    severity: 'med',
+    timestamp: '1 hour ago',
+    confidence: 0.85,
+    action: 'Precision Fungicide'
+  },
+  {
+    id: 3,
+    type: 'Weather',
+    title: 'High Humidity Forecast',
+    location: 'Regional',
+    severity: 'low',
+    timestamp: '2 hours ago',
+    confidence: 0.92,
+    action: 'Monitoring'
+  }
+];
