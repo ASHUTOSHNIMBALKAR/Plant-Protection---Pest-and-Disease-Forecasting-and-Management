@@ -48,3 +48,15 @@ export const regionalRisk = [
   { region: 'Bhor', score: 65, status: 'Warning', coordinates: [18.1504, 73.8167] },
   { region: 'Junner', score: 92, status: 'Critical', coordinates: [19.2504, 73.8167] },
 ];
+
+export const spraySchedule = [
+  { time: 'Tomorrow, 06:00 AM', sector: 'Sector 4B', chemical: 'Neem-based Bio-pesticide', area: '4.5 Acres', status: 'Scheduled' },
+  { time: 'Thu, 07:30 AM', sector: 'Sector 2A', chemical: 'Fungicide (Precision Spot)', area: '1.2 Acres', status: 'Pending' },
+];
+
+export const impactMetrics = [
+  { label: 'Pesticide Reduction', value: '42%', icon: 'Droplets', color: '#10b981', trend: '+12% from last season' },
+  { label: 'Yield Increase', value: '18%', icon: 'Zap', color: '#3b82f6', trend: '+5% higher than avg' },
+  { label: 'Water Saved', value: '1.2M L', icon: 'Activity', color: '#0ea5e9', trend: 'Equivalent to 20 pools' },
+  { label: 'Cost Savings', value: '₹2.4L', icon: 'Database', color: '#f59e0b', trend: 'Per 100 acres managed' },
+];
