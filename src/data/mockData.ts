@@ -60,3 +60,10 @@ export const impactMetrics = [
   { label: 'Water Saved', value: '1.2M L', icon: 'Activity', color: '#0ea5e9', trend: 'Equivalent to 20 pools' },
   { label: 'Cost Savings', value: '₹2.4L', icon: 'Database', color: '#f59e0b', trend: 'Per 100 acres managed' },
 ];
+
+export const detectionGallery = [
+  { id: 1, name: 'Rice Blast', confidence: 0.96, species: 'Magnaporthe oryzae', date: '2024-03-22', status: 'Detected' },
+  { id: 2, name: 'Brown Planthopper', confidence: 0.98, species: 'Nilaparvata lugens', date: '2024-03-23', status: 'Active' },
+  { id: 3, name: 'Leaf Roller', confidence: 0.92, species: 'Cnaphalocrocis medinalis', date: '2024-03-24', status: 'Historical' },
+];
+
