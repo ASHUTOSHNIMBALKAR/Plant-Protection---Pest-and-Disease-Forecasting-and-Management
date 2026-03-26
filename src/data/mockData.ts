@@ -40,3 +40,11 @@ export const activeAlerts = [
     action: 'Monitoring'
   }
 ];
+
+export const regionalRisk = [
+  { region: 'Haveli', score: 85, status: 'Critical', coordinates: [18.5204, 73.8567] },
+  { region: 'Mulshi', score: 42, status: 'Warning', coordinates: [18.5504, 73.8167] },
+  { region: 'Maval', score: 18, status: 'Stable', coordinates: [18.6504, 73.7167] },
+  { region: 'Bhor', score: 65, status: 'Warning', coordinates: [18.1504, 73.8167] },
+  { region: 'Junner', score: 92, status: 'Critical', coordinates: [19.2504, 73.8167] },
+];
