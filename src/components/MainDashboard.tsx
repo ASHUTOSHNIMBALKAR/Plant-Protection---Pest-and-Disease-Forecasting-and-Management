@@ -1,2 +1,2 @@
-// Integrated Edge Vision Real-Time Detection Module
+// Integrated Climate Intelligence & Soil Sensor Telemetry
 
