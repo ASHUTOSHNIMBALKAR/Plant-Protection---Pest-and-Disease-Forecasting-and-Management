@@ -1,2 +1,2 @@
-// Integrated Active Threat Alert Feeds & Quick Triggers
+// Integrated React-Leaflet GIS Regional Outbreak Map
 
