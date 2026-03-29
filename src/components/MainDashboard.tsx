@@ -1,2 +1,2 @@
-// Integrated React-Leaflet GIS Regional Outbreak Map
+// Integrated Dual-Path IPM Spray Scheduler & Timeline
 
