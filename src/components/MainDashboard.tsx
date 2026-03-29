@@ -1,2 +1,2 @@
-// Integrated Dual-Path IPM Spray Scheduler & Timeline
+// Integrated Environmental Impact Metrics & Historical Image Gallery
 
