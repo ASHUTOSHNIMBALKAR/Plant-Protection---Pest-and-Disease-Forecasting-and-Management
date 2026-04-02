@@ -1,19 +1,19 @@
-# Plant-Protection---Pest-and-Disease-Forecasting-and-Management
 
-<div align="center">
 
-# 🌿 PESTRA AI
-### Hyper-Local Pest & Disease Intelligence System
-**Pune International Agri Hackathon — Top 1% Proposal Category**
+## 🚀 Key Innovations & Competitive Edge
 
-*An offline-first, cyber-physical platform combining low-cost edge computer vision, microclimate sensor telemetry, bi-directional LSTM predictive forecasting, and satellite GIS spatial analytics to protect crops before visible outbreak manifestation.*
+1. **⚡ Offline-First Edge Computer Vision**: On-device YOLOv8-Nano quantized to INT8 running on ESP32-CAM and Raspberry Pi nodes.
+2. **🧠 Multimodal Bi-Directional LSTM Predictive Forecasting**: Predicts infection windows 7–14 days ahead using microclimate telemetry.
+3. **🗺️ Satellite & React-Leaflet GIS Outbreak Cartography**: District-level spatial tracking across Pune agricultural sectors.
+4. **🌿 Dual-Path Integrated Pest Management (IPM)**: Organic-first advisory cutting chemical use by up to 42%.
+5. **🛸 Autonomous Drone Swarm Surveillance**: Waypoint-guided spot spraying directly to high-risk outbreak micro-polygons.
 
-</div>
+## 🛠️ Hardware Specification & Bill of Materials (BOM)
 
-## 📌 Executive Summary
-
-Modern agriculture faces a devastating dual dilemma: **reactive pest and disease management** causing an estimated **25% to 40% annual crop yield destruction** globally, paired with the **blind, calendar-based overuse of synthetic chemical pesticides**.
-
-In regions like the **Pune Agricultural Belt** (Haveli, Mulshi, Maval, Junnar, Bhor), smallholder and cooperative farmers frequently discover viral, fungal, and insect incursions only *after* irreversible foliar damage has occurred.
-
-**Pestra AI** fundamentally transforms plant protection from **reactive mitigation** to **proactive, hyper-local precision forecasting**.
+- ESP32-S3 / ESP32-CAM: \.50
+- SX1276 LoRa 868MHz Transceiver: \.20
+- BME280 / DHT22 Climate Sensor: \.80
+- Capacitive Soil Moisture Sensor v1.2: \.90
+- Solar + Li-ion Battery Power Unit: \.50
+- Weatherproof Enclosure: \.00
+- **Total Unit BOM: ~\.90 (~₹1,570)**
