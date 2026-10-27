@@ -269,25 +269,6 @@ npm run preview
 
 ---
 
-## 🏆 Pune International Agri Hackathon Alignment
-
-| Judging Criteria | Pestra AI Implementation | Score Alignment |
-|---|---|:---:|
-| **1. Innovativeness** | First-of-its-kind offline-first Edge AI + LoRaWAN dual-path IPM system designed specifically for rural low-connectivity agrarian landscapes. | **Top 1%** |
-| **2. Feasibility & Impact** | Frugal \$18.90 hardware BOM; measurable 42% chemical reduction and ₹2.4 Lakh savings per 100 acres; deployable within 48 hours. | **Top 1%** |
-| **3. Technical Depth** | INT8-quantized YOLOv8-Nano on microcontrollers + Bi-directional LSTM time-series risk models + React 19 Leaflet GIS architecture. | **Top 1%** |
-| **4. Scalability & Market** | Horizontally extensible to any crop taxonomy (rice, sugarcane, cotton, grapes, onion, soybean) and globally applicable to smallholder farming systems. | **Top 1%** |
-
----
-
-## 👥 Contributors & Acknowledgments
-
-- **Lead Developer & System Architect**: [ASHUTOSHNIMBALKAR](https://github.com/ASHUTOSHNIMBALKAR)
-- **Initiative**: Developed for the **Pune International Agri Hackathon**
-- **Domain Inspiration**: Indian Council of Agricultural Research (ICAR), National Institute of Plant Health Management (NIPHM), and the farming communities of Maharashtra.
-
----
-
 <div align="center">
 <sub>Engineered with precision for sustainable agriculture and global food security. 🌾</sub>
 </div>
